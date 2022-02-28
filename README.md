@@ -5,7 +5,7 @@ I'm currently studying Web development at Trybe and I'm familiar with Javascript
 
 <div>
   <a href="https://github.com/dantasjv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dantasjv&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/> <br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dantasjv&show_icons=true&theme=solarized-dark&include_2022_commits=true&count_private=true"/> <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantasjv&layout=compact&langs_count=7&theme=solarized-dark"/>
 </div>
   <div style="display: inline_block"><br>
